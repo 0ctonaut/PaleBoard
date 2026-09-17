@@ -16,6 +16,8 @@ Runtime libraries (MIT)
   Copyright (c) Meta Platforms, Inc. and affiliates.
 - classcat 5.0.5
   Copyright (c) Jorge Bucaran.
+- Three.js 0.186.0
+  Copyright (c) 2010-2026 three.js authors.
 
 The MIT License text is included at licenses/MIT.txt.
 
@@ -38,3 +40,15 @@ Theme palette sources
 
 PaleBoard maps these palette values into its own semantic UI token system. The theme
 names and source links are retained for attribution. No theme project endorses PaleBoard.
+
+Demo 3D assets (CC0-1.0)
+--------------------------
+
+- Four models and their shared colormap texture from Kenney City Kit (Suburban):
+  building-type-a, building-type-t, tree-large and planter. Renamed in the build
+  as house, townhouse, tree and planter.
+  Source: https://kenney.nl/assets/city-kit-suburban
+  License: Creative Commons Zero 1.0 Universal. Attribution is not required.
+
+The publisher-provided License.txt is included beside the GLB files at
+demo-models/kenney-suburban/LICENSE.txt.
