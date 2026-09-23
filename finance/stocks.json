@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-23T13:37:18+08:00",
+  "generatedAt": "2026-09-23T19:00:51+08:00",
   "indices": [
     {
       "id": "ndx",
@@ -9,7 +9,7 @@
       "market": "US",
       "source": "Yahoo Finance",
       "sourceUrl": "https://finance.yahoo.com/quote/%5ENDX/",
-      "attemptedAt": "2026-09-23T13:37:18+08:00",
+      "attemptedAt": "2026-09-23T19:00:51+08:00",
       "bars": [
         {
           "date": "2026-03-17",
@@ -940,7 +940,7 @@
       "market": "US",
       "source": "Yahoo Finance",
       "sourceUrl": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "attemptedAt": "2026-09-23T13:37:18+08:00",
+      "attemptedAt": "2026-09-23T19:00:51+08:00",
       "bars": [
         {
           "date": "2026-03-17",
@@ -1871,7 +1871,7 @@
       "market": "CN",
       "source": "腾讯证券",
       "sourceUrl": "https://gu.qq.com/sh000300/zs",
-      "attemptedAt": "2026-09-23T13:37:18+08:00",
+      "attemptedAt": "2026-09-23T19:00:51+08:00",
       "status": "ok",
       "bars": [
         {
@@ -2920,12 +2920,12 @@
         {
           "date": "2026-09-23",
           "open": 4547.61,
-          "close": 4516.54,
+          "close": 4517.28,
           "high": 4547.69,
-          "low": 4515.82
+          "low": 4513.45
         }
       ],
-      "fetchedAt": "2026-09-23T13:37:18+08:00",
+      "fetchedAt": "2026-09-23T19:00:51+08:00",
       "asOf": "2026-09-23"
     },
     {
@@ -2935,7 +2935,7 @@
       "market": "CN",
       "source": "腾讯证券",
       "sourceUrl": "https://gu.qq.com/sh000905/zs",
-      "attemptedAt": "2026-09-23T13:37:18+08:00",
+      "attemptedAt": "2026-09-23T19:00:51+08:00",
       "status": "ok",
       "bars": [
         {
@@ -3984,12 +3984,12 @@
         {
           "date": "2026-09-23",
           "open": 7839.94,
-          "close": 7797.51,
+          "close": 7791.82,
           "high": 7839.94,
-          "low": 7796.0
+          "low": 7781.31
         }
       ],
-      "fetchedAt": "2026-09-23T13:37:18+08:00",
+      "fetchedAt": "2026-09-23T19:00:51+08:00",
       "asOf": "2026-09-23"
     }
   ]
