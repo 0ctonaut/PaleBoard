@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-24",
-  "generatedAt": "2026-09-24T09:12:52+08:00",
+  "generatedAt": "2026-09-24T15:22:52+08:00",
   "banks": [
     {
       "id": "boc",
@@ -9,7 +9,7 @@
       "category": "国有银行",
       "url": "https://www.bankofchina.com/sourcedb/whpj/",
       "status": "ok",
-      "attemptedAt": "2026-09-24T09:12:52+08:00"
+      "attemptedAt": "2026-09-24T15:22:52+08:00"
     },
     {
       "id": "ccb",
@@ -18,7 +18,7 @@
       "url": "https://www2.ccb.com/cn/home/news/jshckpj_new.xml",
       "pageUrl": "https://ebank2.ccb.com/chn/forex/exchange-quotations.shtml",
       "status": "ok",
-      "attemptedAt": "2026-09-24T09:12:52+08:00"
+      "attemptedAt": "2026-09-24T15:22:52+08:00"
     },
     {
       "id": "cmb",
@@ -27,7 +27,7 @@
       "url": "https://fx.cmbchina.com/api/v1/fx/rate",
       "pageUrl": "https://fx.cmbchina.com/hq/",
       "status": "ok",
-      "attemptedAt": "2026-09-24T09:12:52+08:00"
+      "attemptedAt": "2026-09-24T15:22:52+08:00"
     },
     {
       "id": "bob",
@@ -36,7 +36,7 @@
       "url": "https://www.bankofbeijing.com.cn/api/foreignRate/queryList",
       "pageUrl": "https://www.bankofbeijing.com.cn/personal/second/personalExchangeRate",
       "status": "ok",
-      "attemptedAt": "2026-09-24T09:12:52+08:00"
+      "attemptedAt": "2026-09-24T15:22:52+08:00"
     },
     {
       "id": "icbc",
@@ -45,7 +45,7 @@
       "url": "https://papi.icbc.com.cn/exchanges/ns/getLatest",
       "pageUrl": "https://open.icbc.com.cn/icbc/apip/api_list.html",
       "status": "ok",
-      "attemptedAt": "2026-09-24T09:12:52+08:00"
+      "attemptedAt": "2026-09-24T15:22:52+08:00"
     },
     {
       "id": "abc",
@@ -54,7 +54,7 @@
       "url": "https://ewealth.abchina.com/app/data/api/DataService/ExchangeRateV2",
       "pageUrl": "https://app.abchina.com/static/app/ll/ExchangeRate/",
       "status": "ok",
-      "attemptedAt": "2026-09-24T09:12:52+08:00"
+      "attemptedAt": "2026-09-24T15:22:52+08:00"
     },
     {
       "id": "psbc",
@@ -63,7 +63,7 @@
       "url": "https://s.psbc.com/portal/PsbcService/foreignexchange/curr",
       "pageUrl": "https://www.psbc.com/cn/common/bjfw/whpjcx/",
       "status": "ok",
-      "attemptedAt": "2026-09-24T09:12:52+08:00"
+      "attemptedAt": "2026-09-24T15:22:52+08:00"
     },
     {
       "id": "bocom",
@@ -72,7 +72,7 @@
       "url": "https://www.bankcomm.com/SITE/queryExchangeResult.do",
       "pageUrl": "https://www.bankcomm.com/BankCommSite/zonghang/cn/newWhpj/foreignExchangeSearch_Cn.html",
       "status": "ok",
-      "attemptedAt": "2026-09-24T09:12:52+08:00"
+      "attemptedAt": "2026-09-24T15:22:52+08:00"
     },
     {
       "id": "citic",
@@ -81,7 +81,7 @@
       "url": "https://etrade.citicbank.com/portalweb/cms/getForeignExchRate.htm",
       "pageUrl": "https://www.citicbank.com/common/financialnews/news/202408/t20240829_3540192.html",
       "status": "ok",
-      "attemptedAt": "2026-09-24T09:12:52+08:00"
+      "attemptedAt": "2026-09-24T15:22:52+08:00"
     },
     {
       "id": "spdb",
@@ -90,7 +90,7 @@
       "url": "https://www.spdb.com.cn/api/search",
       "pageUrl": "https://www.spdb.com.cn/wh_pj/",
       "status": "ok",
-      "attemptedAt": "2026-09-24T09:12:52+08:00"
+      "attemptedAt": "2026-09-24T15:22:52+08:00"
     },
     {
       "id": "cib",
@@ -99,7 +99,7 @@
       "url": "https://personalbank.cib.com.cn/pers/main/pubinfo/ifxQuotationQuery/list?_search=false&dataSet.rows=80&dataSet.page=1&dataSet.sidx=&dataSet.sort=asc",
       "pageUrl": "https://personalbank.cib.com.cn/pers/main/pubinfo/ifxQuotationQuery.do",
       "status": "ok",
-      "attemptedAt": "2026-09-24T09:12:52+08:00"
+      "attemptedAt": "2026-09-24T15:22:52+08:00"
     },
     {
       "id": "bosc",
@@ -110,116 +110,116 @@
       "sourceKind": "aggregator",
       "message": "第三方转引，官方直连尚未核验；不参与最优比较",
       "status": "ok",
-      "attemptedAt": "2026-09-24T09:12:52+08:00"
+      "attemptedAt": "2026-09-24T15:22:52+08:00"
     }
   ],
   "quotes": [
     {
       "currency": "HKD",
-      "buy": 85.42,
-      "sell": 85.76,
-      "cashBuy": 85.42,
-      "cashSell": 85.76,
+      "buy": 85.41,
+      "sell": 85.75,
+      "cashBuy": 85.41,
+      "cashSell": 85.75,
       "unit": 100,
-      "publishedAt": "2026-09-24T07:53:48+08:00",
+      "publishedAt": "2026-09-24T15:20:33+08:00",
       "bankId": "boc",
-      "fetchedAt": "2026-09-24T09:12:52+08:00",
+      "fetchedAt": "2026-09-24T15:22:52+08:00",
       "source": "https://www.bankofchina.com/sourcedb/whpj/"
     },
     {
       "currency": "JPY",
-      "buy": 4.2242,
-      "sell": 4.2568,
-      "cashBuy": 4.2242,
-      "cashSell": 4.2568,
+      "buy": 4.2199,
+      "sell": 4.2525,
+      "cashBuy": 4.2199,
+      "cashSell": 4.2525,
       "unit": 100,
-      "publishedAt": "2026-09-24T07:53:48+08:00",
+      "publishedAt": "2026-09-24T15:20:33+08:00",
       "bankId": "boc",
-      "fetchedAt": "2026-09-24T09:12:52+08:00",
+      "fetchedAt": "2026-09-24T15:22:52+08:00",
       "source": "https://www.bankofchina.com/sourcedb/whpj/"
     },
     {
       "currency": "USD",
-      "buy": 670.19,
-      "sell": 673.01,
-      "cashBuy": 670.19,
-      "cashSell": 673.01,
-      "unit": 100,
-      "publishedAt": "2026-09-24T07:53:48+08:00",
-      "bankId": "boc",
-      "fetchedAt": "2026-09-24T09:12:52+08:00",
-      "source": "https://www.bankofchina.com/sourcedb/whpj/"
-    },
-    {
-      "currency": "USD",
-      "buy": 669.7,
-      "sell": 672.58,
-      "cashBuy": 669.7,
-      "cashSell": 672.58,
-      "unit": 100,
-      "publishedAt": "2026-09-24T08:55:44+08:00",
-      "bankId": "ccb",
-      "fetchedAt": "2026-09-24T09:12:52+08:00",
-      "source": "https://www2.ccb.com/cn/home/news/jshckpj_new.xml"
-    },
-    {
-      "currency": "JPY",
-      "buy": 4.2314,
-      "sell": 4.2637,
-      "cashBuy": 4.2314,
-      "cashSell": 4.2637,
-      "unit": 100,
-      "publishedAt": "2026-09-24T09:08:08+08:00",
-      "bankId": "ccb",
-      "fetchedAt": "2026-09-24T09:12:52+08:00",
-      "source": "https://www2.ccb.com/cn/home/news/jshckpj_new.xml"
-    },
-    {
-      "currency": "HKD",
-      "buy": 85.38,
-      "sell": 85.72,
-      "cashBuy": 85.38,
-      "cashSell": 85.72,
-      "unit": 100,
-      "publishedAt": "2026-09-24T09:08:08+08:00",
-      "bankId": "ccb",
-      "fetchedAt": "2026-09-24T09:12:52+08:00",
-      "source": "https://www2.ccb.com/cn/home/news/jshckpj_new.xml"
-    },
-    {
-      "currency": "HKD",
-      "buy": 85.42,
-      "sell": 85.76,
-      "cashBuy": 85.42,
-      "cashSell": 85.76,
-      "unit": 100,
-      "publishedAt": "2026-09-24T09:12:51+08:00",
-      "bankId": "cmb",
-      "fetchedAt": "2026-09-24T09:12:52+08:00",
-      "source": "https://fx.cmbchina.com/api/v1/fx/rate"
-    },
-    {
-      "currency": "USD",
-      "buy": 670.03,
+      "buy": 670.13,
       "sell": 672.95,
-      "cashBuy": 670.03,
+      "cashBuy": 670.13,
       "cashSell": 672.95,
       "unit": 100,
-      "publishedAt": "2026-09-24T09:12:51+08:00",
+      "publishedAt": "2026-09-24T15:20:33+08:00",
+      "bankId": "boc",
+      "fetchedAt": "2026-09-24T15:22:52+08:00",
+      "source": "https://www.bankofchina.com/sourcedb/whpj/"
+    },
+    {
+      "currency": "USD",
+      "buy": 670.05,
+      "sell": 672.93,
+      "cashBuy": 670.05,
+      "cashSell": 672.93,
+      "unit": 100,
+      "publishedAt": "2026-09-24T15:18:07+08:00",
+      "bankId": "ccb",
+      "fetchedAt": "2026-09-24T15:22:52+08:00",
+      "source": "https://www2.ccb.com/cn/home/news/jshckpj_new.xml"
+    },
+    {
+      "currency": "JPY",
+      "buy": 4.222,
+      "sell": 4.2542,
+      "cashBuy": 4.222,
+      "cashSell": 4.2542,
+      "unit": 100,
+      "publishedAt": "2026-09-24T15:18:08+08:00",
+      "bankId": "ccb",
+      "fetchedAt": "2026-09-24T15:22:52+08:00",
+      "source": "https://www2.ccb.com/cn/home/news/jshckpj_new.xml"
+    },
+    {
+      "currency": "HKD",
+      "buy": 85.41,
+      "sell": 85.75,
+      "cashBuy": 85.41,
+      "cashSell": 85.75,
+      "unit": 100,
+      "publishedAt": "2026-09-24T15:18:07+08:00",
+      "bankId": "ccb",
+      "fetchedAt": "2026-09-24T15:22:52+08:00",
+      "source": "https://www2.ccb.com/cn/home/news/jshckpj_new.xml"
+    },
+    {
+      "currency": "HKD",
+      "buy": 85.42,
+      "sell": 85.76,
+      "cashBuy": 85.42,
+      "cashSell": 85.76,
+      "unit": 100,
+      "publishedAt": "2026-09-24T15:22:55+08:00",
       "bankId": "cmb",
-      "fetchedAt": "2026-09-24T09:12:52+08:00",
+      "fetchedAt": "2026-09-24T15:22:52+08:00",
+      "source": "https://fx.cmbchina.com/api/v1/fx/rate"
+    },
+    {
+      "currency": "USD",
+      "buy": 670.06,
+      "sell": 672.98,
+      "cashBuy": 670.06,
+      "cashSell": 672.98,
+      "unit": 100,
+      "publishedAt": "2026-09-24T15:22:55+08:00",
+      "bankId": "cmb",
+      "fetchedAt": "2026-09-24T15:22:52+08:00",
       "source": "https://fx.cmbchina.com/api/v1/fx/rate"
     },
     {
       "currency": "JPY",
-      "buy": 4.2337,
-      "sell": 4.2677,
-      "cashBuy": 4.2337,
-      "cashSell": 4.2677,
+      "buy": 4.2203,
+      "sell": 4.2541,
+      "cashBuy": 4.2203,
+      "cashSell": 4.2541,
       "unit": 100,
-      "publishedAt": "2026-09-24T09:12:51+08:00",
+      "publishedAt": "2026-09-24T15:22:55+08:00",
       "bankId": "cmb",
-      "fetchedAt": "2026-09-24T09:12:52+08:00",
+      "fetchedAt": "2026-09-24T15:22:52+08:00",
       "source": "https://fx.cmbchina.com/api/v1/fx/rate"
     },
     {
@@ -231,139 +231,139 @@
       "unit": 100,
       "publishedAt": "2026-09-24",
       "bankId": "bob",
-      "fetchedAt": "2026-09-24T09:12:52+08:00",
+      "fetchedAt": "2026-09-24T15:22:52+08:00",
       "source": "https://www.bankofbeijing.com.cn/api/foreignRate/queryList"
     },
     {
       "currency": "USD",
-      "buy": 669.66,
-      "sell": 672.61,
-      "cashBuy": 669.66,
-      "cashSell": 672.61,
-      "unit": 100,
-      "publishedAt": "2026-09-24",
-      "bankId": "bob",
-      "fetchedAt": "2026-09-24T09:12:52+08:00",
-      "source": "https://www.bankofbeijing.com.cn/api/foreignRate/queryList"
-    },
-    {
-      "currency": "JPY",
-      "buy": 4.2366,
-      "sell": 4.2631,
-      "cashBuy": 4.2366,
-      "cashSell": 4.2631,
-      "unit": 100,
-      "publishedAt": "2026-09-24",
-      "bankId": "bob",
-      "fetchedAt": "2026-09-24T09:12:52+08:00",
-      "source": "https://www.bankofbeijing.com.cn/api/foreignRate/queryList"
-    },
-    {
-      "currency": "HKD",
-      "buy": 85.34,
-      "sell": 85.77,
-      "cashBuy": 85.34,
-      "cashSell": 85.77,
-      "unit": 100,
-      "publishedAt": "2026-09-24T09:11:59+08:00",
-      "bankId": "icbc",
-      "fetchedAt": "2026-09-24T09:12:52+08:00",
-      "source": "https://papi.icbc.com.cn/exchanges/ns/getLatest"
-    },
-    {
-      "currency": "USD",
-      "buy": 669.18,
+      "buy": 669.71,
       "sell": 672.67,
-      "cashBuy": 669.18,
+      "cashBuy": 669.71,
       "cashSell": 672.67,
       "unit": 100,
-      "publishedAt": "2026-09-24T03:02:12+08:00",
+      "publishedAt": "2026-09-24",
+      "bankId": "bob",
+      "fetchedAt": "2026-09-24T15:22:52+08:00",
+      "source": "https://www.bankofbeijing.com.cn/api/foreignRate/queryList"
+    },
+    {
+      "currency": "JPY",
+      "buy": 4.2227,
+      "sell": 4.2498,
+      "cashBuy": 4.2227,
+      "cashSell": 4.2498,
+      "unit": 100,
+      "publishedAt": "2026-09-24",
+      "bankId": "bob",
+      "fetchedAt": "2026-09-24T15:22:52+08:00",
+      "source": "https://www.bankofbeijing.com.cn/api/foreignRate/queryList"
+    },
+    {
+      "currency": "HKD",
+      "buy": 85.35,
+      "sell": 85.78,
+      "cashBuy": 85.35,
+      "cashSell": 85.78,
+      "unit": 100,
+      "publishedAt": "2026-09-24T15:21:59+08:00",
       "bankId": "icbc",
-      "fetchedAt": "2026-09-24T09:12:52+08:00",
+      "fetchedAt": "2026-09-24T15:22:52+08:00",
+      "source": "https://papi.icbc.com.cn/exchanges/ns/getLatest"
+    },
+    {
+      "currency": "USD",
+      "buy": 669.31,
+      "sell": 672.8,
+      "cashBuy": 669.31,
+      "cashSell": 672.8,
+      "unit": 100,
+      "publishedAt": "2026-09-24T15:21:59+08:00",
+      "bankId": "icbc",
+      "fetchedAt": "2026-09-24T15:22:52+08:00",
       "source": "https://papi.icbc.com.cn/exchanges/ns/getLatest"
     },
     {
       "currency": "JPY",
-      "buy": 4.2282,
-      "sell": 4.2672,
-      "cashBuy": 4.2282,
-      "cashSell": 4.2672,
+      "buy": 4.2152,
+      "sell": 4.2542,
+      "cashBuy": 4.2152,
+      "cashSell": 4.2542,
       "unit": 100,
-      "publishedAt": "2026-09-24T09:11:59+08:00",
+      "publishedAt": "2026-09-24T15:21:59+08:00",
       "bankId": "icbc",
-      "fetchedAt": "2026-09-24T09:12:52+08:00",
+      "fetchedAt": "2026-09-24T15:22:52+08:00",
       "source": "https://papi.icbc.com.cn/exchanges/ns/getLatest"
     },
     {
       "currency": "HKD",
-      "buy": 85.4,
-      "sell": 85.743,
-      "cashBuy": 85.4,
-      "cashSell": 85.743,
+      "buy": 85.406,
+      "sell": 85.749,
+      "cashBuy": 85.406,
+      "cashSell": 85.749,
       "unit": 100,
-      "publishedAt": "2026-09-24T09:12:20+08:00",
+      "publishedAt": "2026-09-24T15:22:53+08:00",
       "bankId": "abc",
-      "fetchedAt": "2026-09-24T09:12:52+08:00",
+      "fetchedAt": "2026-09-24T15:22:52+08:00",
       "source": "https://ewealth.abchina.com/app/data/api/DataService/ExchangeRateV2"
     },
     {
       "currency": "USD",
-      "buy": 669.758,
-      "sell": 672.576,
-      "cashBuy": 669.758,
-      "cashSell": 672.576,
+      "buy": 669.853,
+      "sell": 672.672,
+      "cashBuy": 669.853,
+      "cashSell": 672.672,
       "unit": 100,
-      "publishedAt": "2026-09-24T09:12:20+08:00",
+      "publishedAt": "2026-09-24T15:22:53+08:00",
       "bankId": "abc",
-      "fetchedAt": "2026-09-24T09:12:52+08:00",
+      "fetchedAt": "2026-09-24T15:22:52+08:00",
       "source": "https://ewealth.abchina.com/app/data/api/DataService/ExchangeRateV2"
     },
     {
       "currency": "JPY",
-      "buy": 4.234,
-      "sell": 4.264,
-      "cashBuy": 4.234,
-      "cashSell": 4.264,
+      "buy": 4.221,
+      "sell": 4.251,
+      "cashBuy": 4.221,
+      "cashSell": 4.251,
       "unit": 100,
-      "publishedAt": "2026-09-24T09:12:20+08:00",
+      "publishedAt": "2026-09-24T15:22:53+08:00",
       "bankId": "abc",
-      "fetchedAt": "2026-09-24T09:12:52+08:00",
+      "fetchedAt": "2026-09-24T15:22:52+08:00",
       "source": "https://ewealth.abchina.com/app/data/api/DataService/ExchangeRateV2"
     },
     {
       "currency": "USD",
-      "buy": 669.75,
-      "sell": 672.57,
-      "cashBuy": 669.75,
+      "buy": 669.87,
+      "sell": 672.72,
+      "cashBuy": 669.87,
       "cashSell": null,
       "unit": 100,
-      "publishedAt": "2026-09-24T09:12:00+08:00",
+      "publishedAt": "2026-09-24T15:23:00+08:00",
       "bankId": "psbc",
-      "fetchedAt": "2026-09-24T09:12:52+08:00",
+      "fetchedAt": "2026-09-24T15:22:52+08:00",
       "source": "https://s.psbc.com/portal/PsbcService/foreignexchange/curr"
     },
     {
       "currency": "HKD",
-      "buy": 85.38,
-      "sell": 85.75,
-      "cashBuy": 85.38,
+      "buy": 85.39,
+      "sell": 85.76,
+      "cashBuy": 85.39,
       "cashSell": null,
       "unit": 100,
-      "publishedAt": "2026-09-24T09:12:01+08:00",
+      "publishedAt": "2026-09-24T15:23:01+08:00",
       "bankId": "psbc",
-      "fetchedAt": "2026-09-24T09:12:52+08:00",
+      "fetchedAt": "2026-09-24T15:22:52+08:00",
       "source": "https://s.psbc.com/portal/PsbcService/foreignexchange/curr"
     },
     {
       "currency": "JPY",
-      "buy": 4.2258,
-      "sell": 4.2732,
-      "cashBuy": 4.2258,
+      "buy": 4.2126,
+      "sell": 4.2605,
+      "cashBuy": 4.2126,
       "cashSell": null,
       "unit": 100,
-      "publishedAt": "2026-09-24T09:12:02+08:00",
+      "publishedAt": "2026-09-24T15:23:02+08:00",
       "bankId": "psbc",
-      "fetchedAt": "2026-09-24T09:12:52+08:00",
+      "fetchedAt": "2026-09-24T15:22:52+08:00",
       "source": "https://s.psbc.com/portal/PsbcService/foreignexchange/curr"
     },
     {
@@ -373,69 +373,69 @@
       "cashBuy": 85.39,
       "cashSell": 85.78,
       "unit": 100,
-      "publishedAt": "2026-09-24T09:10:00+08:00",
+      "publishedAt": "2026-09-24T15:15:00+08:00",
       "bankId": "bocom",
-      "fetchedAt": "2026-09-24T09:12:52+08:00",
+      "fetchedAt": "2026-09-24T15:22:52+08:00",
       "source": "https://www.bankcomm.com/SITE/queryExchangeResult.do"
     },
     {
       "currency": "JPY",
-      "buy": 4.2337,
-      "sell": 4.26597,
-      "cashBuy": 4.2337,
-      "cashSell": 4.26597,
+      "buy": 4.22236,
+      "sell": 4.25456,
+      "cashBuy": 4.22236,
+      "cashSell": 4.25456,
       "unit": 100,
-      "publishedAt": "2026-09-24T09:10:00+08:00",
+      "publishedAt": "2026-09-24T15:15:00+08:00",
       "bankId": "bocom",
-      "fetchedAt": "2026-09-24T09:12:52+08:00",
+      "fetchedAt": "2026-09-24T15:22:52+08:00",
       "source": "https://www.bankcomm.com/SITE/queryExchangeResult.do"
     },
     {
       "currency": "USD",
-      "buy": 670.09,
-      "sell": 672.97,
-      "cashBuy": 670.09,
-      "cashSell": 672.97,
+      "buy": 670.02,
+      "sell": 672.9,
+      "cashBuy": 670.02,
+      "cashSell": 672.9,
       "unit": 100,
-      "publishedAt": "2026-09-24T09:10:00+08:00",
+      "publishedAt": "2026-09-24T15:15:00+08:00",
       "bankId": "bocom",
-      "fetchedAt": "2026-09-24T09:12:52+08:00",
+      "fetchedAt": "2026-09-24T15:22:52+08:00",
       "source": "https://www.bankcomm.com/SITE/queryExchangeResult.do"
     },
     {
       "currency": "USD",
-      "buy": 670.1,
-      "sell": 673.55,
+      "buy": 670.02,
+      "sell": 673.07,
       "cashBuy": null,
       "cashSell": null,
       "unit": 100,
-      "publishedAt": "2026-09-24T09:02:03+08:00",
+      "publishedAt": "2026-09-24T15:22:49+08:00",
       "bankId": "citic",
-      "fetchedAt": "2026-09-24T09:12:52+08:00",
+      "fetchedAt": "2026-09-24T15:22:52+08:00",
       "source": "https://etrade.citicbank.com/portalweb/cms/getForeignExchRate.htm"
     },
     {
       "currency": "JPY",
-      "buy": 4.2307,
-      "sell": 4.2755,
+      "buy": 4.2163,
+      "sell": 4.2583,
       "cashBuy": null,
       "cashSell": null,
       "unit": 100,
-      "publishedAt": "2026-09-24T09:12:55+08:00",
+      "publishedAt": "2026-09-24T15:22:49+08:00",
       "bankId": "citic",
-      "fetchedAt": "2026-09-24T09:12:52+08:00",
+      "fetchedAt": "2026-09-24T15:22:52+08:00",
       "source": "https://etrade.citicbank.com/portalweb/cms/getForeignExchRate.htm"
     },
     {
       "currency": "HKD",
-      "buy": 85.423,
-      "sell": 85.829,
+      "buy": 85.404,
+      "sell": 85.762,
       "cashBuy": null,
       "cashSell": null,
       "unit": 100,
-      "publishedAt": "2026-09-24T09:12:31+08:00",
+      "publishedAt": "2026-09-24T15:22:49+08:00",
       "bankId": "citic",
-      "fetchedAt": "2026-09-24T09:12:52+08:00",
+      "fetchedAt": "2026-09-24T15:22:52+08:00",
       "source": "https://etrade.citicbank.com/portalweb/cms/getForeignExchRate.htm"
     },
     {
@@ -445,110 +445,110 @@
       "cashBuy": 84.79,
       "cashSell": 85.74,
       "unit": 100,
-      "publishedAt": "2026-09-24T09:10:45+08:00",
+      "publishedAt": "2026-09-24T15:20:45+08:00",
       "bankId": "spdb",
-      "fetchedAt": "2026-09-24T09:12:52+08:00",
+      "fetchedAt": "2026-09-24T15:22:52+08:00",
       "source": "https://www.spdb.com.cn/api/search"
     },
     {
       "currency": "USD",
-      "buy": 669.66,
-      "sell": 673.17,
-      "cashBuy": 664.34,
-      "cashSell": 673.01,
+      "buy": 669.95,
+      "sell": 673.02,
+      "cashBuy": 665.45,
+      "cashSell": 673.02,
       "unit": 100,
-      "publishedAt": "2026-09-24T09:10:45+08:00",
+      "publishedAt": "2026-09-24T15:20:45+08:00",
       "bankId": "spdb",
-      "fetchedAt": "2026-09-24T09:12:52+08:00",
+      "fetchedAt": "2026-09-24T15:22:52+08:00",
       "source": "https://www.spdb.com.cn/api/search"
     },
     {
       "currency": "JPY",
-      "buy": 4.2309,
-      "sell": 4.26575,
-      "cashBuy": 4.11237,
-      "cashSell": 4.26575,
+      "buy": 4.21868,
+      "sell": 4.25343,
+      "cashBuy": 4.1005,
+      "cashSell": 4.25343,
       "unit": 100,
-      "publishedAt": "2026-09-24T09:10:45+08:00",
+      "publishedAt": "2026-09-24T15:20:45+08:00",
       "bankId": "spdb",
-      "fetchedAt": "2026-09-24T09:12:52+08:00",
+      "fetchedAt": "2026-09-24T15:22:52+08:00",
       "source": "https://www.spdb.com.cn/api/search"
     },
     {
       "currency": "HKD",
-      "buy": 85.4,
-      "sell": 85.73,
-      "cashBuy": 84.68,
-      "cashSell": 85.71,
+      "buy": 85.45,
+      "sell": 85.78,
+      "cashBuy": 84.74,
+      "cashSell": 85.76,
       "unit": 100,
       "publishedAt": null,
       "bankId": "cib",
-      "fetchedAt": "2026-09-24T09:12:52+08:00",
+      "fetchedAt": "2026-09-24T15:22:52+08:00",
       "source": "https://personalbank.cib.com.cn/pers/main/pubinfo/ifxQuotationQuery/list?_search=false&dataSet.rows=80&dataSet.page=1&dataSet.sidx=&dataSet.sort=asc"
     },
     {
       "currency": "USD",
-      "buy": 669.77,
-      "sell": 672.32,
-      "cashBuy": 664.13,
-      "cashSell": 672.18,
+      "buy": 670.21,
+      "sell": 672.76,
+      "cashBuy": 664.57,
+      "cashSell": 672.62,
       "unit": 100,
       "publishedAt": null,
       "bankId": "cib",
-      "fetchedAt": "2026-09-24T09:12:52+08:00",
+      "fetchedAt": "2026-09-24T15:22:52+08:00",
       "source": "https://personalbank.cib.com.cn/pers/main/pubinfo/ifxQuotationQuery/list?_search=false&dataSet.rows=80&dataSet.page=1&dataSet.sidx=&dataSet.sort=asc"
     },
     {
       "currency": "JPY",
-      "buy": 4.23,
-      "sell": 4.27,
-      "cashBuy": 4.1,
-      "cashSell": 4.27,
+      "buy": 4.22,
+      "sell": 4.26,
+      "cashBuy": 4.09,
+      "cashSell": 4.25,
       "unit": 100,
       "publishedAt": null,
       "bankId": "cib",
-      "fetchedAt": "2026-09-24T09:12:52+08:00",
+      "fetchedAt": "2026-09-24T15:22:52+08:00",
       "source": "https://personalbank.cib.com.cn/pers/main/pubinfo/ifxQuotationQuery/list?_search=false&dataSet.rows=80&dataSet.page=1&dataSet.sidx=&dataSet.sort=asc"
     },
     {
       "currency": "USD",
-      "buy": 669.71,
-      "sell": 672.68,
-      "cashBuy": 664.34,
+      "buy": 669.97,
+      "sell": 672.95,
+      "cashBuy": 664.6,
       "cashSell": null,
       "unit": 100,
-      "publishedAt": "2026-09-24T09:00:00+08:00",
+      "publishedAt": "2026-09-24T15:00:00+08:00",
       "bankId": "bosc",
-      "fetchedAt": "2026-09-24T09:12:52+08:00",
+      "fetchedAt": "2026-09-24T15:22:52+08:00",
       "source": "https://huilv.qqday.com/result/bosc.json"
     },
     {
       "currency": "JPY",
-      "buy": 4.2238,
-      "sell": 4.2572,
-      "cashBuy": 4.0881,
+      "buy": 4.22,
+      "sell": 4.2531,
+      "cashBuy": 4.0844,
       "cashSell": null,
       "unit": 100,
-      "publishedAt": "2026-09-24T09:00:00+08:00",
+      "publishedAt": "2026-09-24T15:00:00+08:00",
       "bankId": "bosc",
-      "fetchedAt": "2026-09-24T09:12:52+08:00",
+      "fetchedAt": "2026-09-24T15:22:52+08:00",
       "source": "https://huilv.qqday.com/result/bosc.json"
     },
     {
       "currency": "HKD",
-      "buy": 85.39,
-      "sell": 85.76,
-      "cashBuy": 84.7,
+      "buy": 85.42,
+      "sell": 85.78,
+      "cashBuy": 84.73,
       "cashSell": null,
       "unit": 100,
-      "publishedAt": "2026-09-24T09:00:00+08:00",
+      "publishedAt": "2026-09-24T15:00:00+08:00",
       "bankId": "bosc",
-      "fetchedAt": "2026-09-24T09:12:52+08:00",
+      "fetchedAt": "2026-09-24T15:22:52+08:00",
       "source": "https://huilv.qqday.com/result/bosc.json"
     }
   ],
   "network": {
-    "date": "2026-09-23",
+    "date": "2026-09-24",
     "quotes": [
       {
         "currency": "CNY",
@@ -557,63 +557,63 @@
       },
       {
         "currency": "HKD",
-        "rate": 0.8563,
+        "rate": 0.8585,
         "settlement": "CNY"
       },
       {
         "currency": "JPY",
-        "rate": 0.042691,
+        "rate": 0.042716,
         "settlement": "CNY"
       },
       {
         "currency": "USD",
-        "rate": 6.7203,
+        "rate": 6.7372,
         "settlement": "CNY"
       }
     ],
-    "source": "https://www.unionpayintl.com/upload/jfimg/20260923.json",
+    "source": "https://www.unionpayintl.com/upload/jfimg/20260924.json",
     "pageUrl": "https://www.unionpayintl.com/cardholderServ/serviceCenter/rate?language=cn",
-    "fetchedAt": "2026-09-23T23:25:05+08:00",
-    "attemptedAt": "2026-09-24T09:12:52+08:00",
-    "status": "error"
+    "fetchedAt": "2026-09-24T15:22:52+08:00",
+    "attemptedAt": "2026-09-24T15:22:52+08:00",
+    "status": "ok"
   },
   "offshore": {
     "date": "2026-09-24",
-    "publishedAt": "2026-09-24T09:12:57+08:00",
+    "publishedAt": "2026-09-24T15:22:58+08:00",
     "quotes": [
       {
         "currency": "CNY",
-        "buy": 116.333,
-        "sell": 117.598,
+        "buy": 116.166,
+        "sell": 117.429,
         "unit": 100,
         "settlement": "HKD"
       },
       {
         "currency": "CNH",
-        "buy": 116.207,
-        "sell": 117.568,
+        "buy": 116.168,
+        "sell": 117.528,
         "unit": 100,
         "settlement": "HKD"
       },
       {
         "currency": "USD",
-        "buy": 781.85,
-        "sell": 786.87,
+        "buy": 781.89,
+        "sell": 786.91,
         "unit": 100,
         "settlement": "HKD"
       },
       {
         "currency": "JPY",
-        "buy": 4.933,
-        "sell": 5.0,
+        "buy": 4.917,
+        "sell": 4.984,
         "unit": 100,
         "settlement": "HKD"
       }
     ],
     "source": "https://www.bochk.com/whk/rates/exchangeRatesHKD/exchangeRatesHKD-input.action?lang=cn",
     "pageUrl": "https://www.bochk.com/sc/investment/rates/hkdrates.html",
-    "fetchedAt": "2026-09-24T09:12:52+08:00",
-    "attemptedAt": "2026-09-24T09:12:52+08:00",
+    "fetchedAt": "2026-09-24T15:22:52+08:00",
+    "attemptedAt": "2026-09-24T15:22:52+08:00",
     "status": "clock-warning"
   },
   "hkBanks": [
@@ -626,16 +626,16 @@
       "quote": {
         "sourceCurrency": "CNY",
         "market": "unspecified",
-        "buy": 116.12,
-        "sell": 117.55,
+        "buy": 116.14,
+        "sell": 117.56,
         "unit": 100,
         "settlement": "HKD"
       },
-      "publishedAt": "2026-09-24T08:41:12+08:00",
+      "publishedAt": "2026-09-24T15:13:27+08:00",
       "timeKind": "quote",
       "status": "ok",
-      "fetchedAt": "2026-09-24T09:12:52+08:00",
-      "attemptedAt": "2026-09-24T09:12:52+08:00"
+      "fetchedAt": "2026-09-24T15:22:52+08:00",
+      "attemptedAt": "2026-09-24T15:22:52+08:00"
     },
     {
       "id": "citichk",
@@ -646,16 +646,16 @@
       "quote": {
         "sourceCurrency": "CNY",
         "market": "unspecified",
-        "buy": 116.05,
-        "sell": 117.55,
+        "buy": 116.07,
+        "sell": 117.57,
         "unit": 100,
         "settlement": "HKD"
       },
-      "publishedAt": "2026-09-24T08:55:00+08:00",
+      "publishedAt": "2026-09-24T15:10:00+08:00",
       "timeKind": "query",
       "status": "ok",
-      "fetchedAt": "2026-09-24T09:12:52+08:00",
-      "attemptedAt": "2026-09-24T09:12:52+08:00"
+      "fetchedAt": "2026-09-24T15:22:52+08:00",
+      "attemptedAt": "2026-09-24T15:22:52+08:00"
     },
     {
       "id": "ccbhk",
@@ -666,16 +666,16 @@
       "quote": {
         "sourceCurrency": "RMB",
         "market": "unspecified",
-        "buy": 116.08,
-        "sell": 117.67,
+        "buy": 116.07,
+        "sell": 117.61,
         "unit": 100,
         "settlement": "HKD"
       },
-      "publishedAt": "2026-09-24T09:11:41.633000+08:00",
+      "publishedAt": "2026-09-24T15:11:14.610000+08:00",
       "timeKind": "quote",
       "status": "ok",
-      "fetchedAt": "2026-09-24T09:12:52+08:00",
-      "attemptedAt": "2026-09-24T09:12:52+08:00"
+      "fetchedAt": "2026-09-24T15:22:52+08:00",
+      "attemptedAt": "2026-09-24T15:22:52+08:00"
     },
     {
       "id": "icbchk",
@@ -686,16 +686,16 @@
       "quote": {
         "sourceCurrency": "CNY",
         "market": "unspecified",
-        "buy": 116.06,
-        "sell": 117.56,
+        "buy": 116.071,
+        "sell": 117.571,
         "unit": 100,
         "settlement": "HKD"
       },
-      "publishedAt": "2026-09-24T09:10:04.378284+08:00",
+      "publishedAt": "2026-09-24T15:20:04.149932+08:00",
       "timeKind": "quote",
       "status": "ok",
-      "fetchedAt": "2026-09-24T09:12:52+08:00",
-      "attemptedAt": "2026-09-24T09:12:52+08:00"
+      "fetchedAt": "2026-09-24T15:22:52+08:00",
+      "attemptedAt": "2026-09-24T15:22:52+08:00"
     },
     {
       "id": "za",
@@ -705,7 +705,7 @@
       "note": "个人最新汇率需在 ZA Bank App 查询；人民币自动报价未接入。",
       "status": "unavailable",
       "quote": null,
-      "attemptedAt": "2026-09-24T09:12:52+08:00"
+      "attemptedAt": "2026-09-24T15:22:52+08:00"
     }
   ]
 }
