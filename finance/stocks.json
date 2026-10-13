@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T02:02:06+08:00",
+  "generatedAt": "2026-10-14T07:13:25+08:00",
   "indices": [
     {
       "id": "ndx",
@@ -9,7 +9,7 @@
       "market": "US",
       "source": "Yahoo Finance",
       "sourceUrl": "https://finance.yahoo.com/quote/%5ENDX/",
-      "attemptedAt": "2026-10-14T02:02:06+08:00",
+      "attemptedAt": "2026-10-14T07:13:25+08:00",
       "status": "ok",
       "bars": [
         {
@@ -1032,10 +1032,10 @@
           "open": 30404.1953125,
           "high": 30595.8046875,
           "low": 30372.298828125,
-          "close": 30494.4296875
+          "close": 30569.48046875
         }
       ],
-      "fetchedAt": "2026-10-14T02:02:06+08:00",
+      "fetchedAt": "2026-10-14T07:13:25+08:00",
       "asOf": "2026-10-13"
     },
     {
@@ -1045,8 +1045,7 @@
       "market": "US",
       "source": "Yahoo Finance",
       "sourceUrl": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "attemptedAt": "2026-10-14T02:02:06+08:00",
-      "status": "ok",
+      "attemptedAt": "2026-10-14T07:13:25+08:00",
       "bars": [
         {
           "date": "2026-03-17",
@@ -2072,7 +2071,8 @@
         }
       ],
       "fetchedAt": "2026-10-14T02:02:06+08:00",
-      "asOf": "2026-10-13"
+      "asOf": "2026-10-13",
+      "status": "error"
     },
     {
       "id": "csi300",
@@ -2081,7 +2081,7 @@
       "market": "CN",
       "source": "腾讯证券",
       "sourceUrl": "https://gu.qq.com/sh000300/zs",
-      "attemptedAt": "2026-10-14T02:02:06+08:00",
+      "attemptedAt": "2026-10-14T07:13:25+08:00",
       "status": "ok",
       "bars": [
         {
@@ -3135,7 +3135,7 @@
           "low": 4216.86
         }
       ],
-      "fetchedAt": "2026-10-14T02:02:06+08:00",
+      "fetchedAt": "2026-10-14T07:13:25+08:00",
       "asOf": "2026-10-13"
     },
     {
@@ -3145,7 +3145,7 @@
       "market": "CN",
       "source": "腾讯证券",
       "sourceUrl": "https://gu.qq.com/sh000905/zs",
-      "attemptedAt": "2026-10-14T02:02:06+08:00",
+      "attemptedAt": "2026-10-14T07:13:25+08:00",
       "status": "ok",
       "bars": [
         {
@@ -4199,7 +4199,7 @@
           "low": 6904.6
         }
       ],
-      "fetchedAt": "2026-10-14T02:02:06+08:00",
+      "fetchedAt": "2026-10-14T07:13:25+08:00",
       "asOf": "2026-10-13"
     }
   ]
