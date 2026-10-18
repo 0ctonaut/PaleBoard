@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-19T01:08:50+08:00",
+  "generatedAt": "2026-10-19T04:16:43+08:00",
   "indices": [
     {
       "id": "ndx",
@@ -9,7 +9,7 @@
       "market": "US",
       "source": "Yahoo Finance",
       "sourceUrl": "https://finance.yahoo.com/quote/%5ENDX/",
-      "attemptedAt": "2026-10-19T01:08:50+08:00",
+      "attemptedAt": "2026-10-19T04:16:43+08:00",
       "status": "ok",
       "bars": [
         {
@@ -1056,7 +1056,7 @@
           "close": 29187.55078125
         }
       ],
-      "fetchedAt": "2026-10-19T01:08:50+08:00",
+      "fetchedAt": "2026-10-19T04:16:43+08:00",
       "asOf": "2026-10-16"
     },
     {
@@ -1066,7 +1066,7 @@
       "market": "US",
       "source": "Yahoo Finance",
       "sourceUrl": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "attemptedAt": "2026-10-19T01:08:50+08:00",
+      "attemptedAt": "2026-10-19T04:16:43+08:00",
       "status": "ok",
       "bars": [
         {
@@ -2113,7 +2113,7 @@
           "close": 7659.43994140625
         }
       ],
-      "fetchedAt": "2026-10-19T01:08:50+08:00",
+      "fetchedAt": "2026-10-19T04:16:43+08:00",
       "asOf": "2026-10-16"
     },
     {
@@ -2123,7 +2123,7 @@
       "market": "CN",
       "source": "腾讯证券",
       "sourceUrl": "https://gu.qq.com/sh000300/zs",
-      "attemptedAt": "2026-10-19T01:08:50+08:00",
+      "attemptedAt": "2026-10-19T04:16:43+08:00",
       "status": "ok",
       "bars": [
         {
@@ -3177,7 +3177,7 @@
           "low": 4127.94
         }
       ],
-      "fetchedAt": "2026-10-19T01:08:50+08:00",
+      "fetchedAt": "2026-10-19T04:16:43+08:00",
       "asOf": "2026-10-16"
     },
     {
@@ -3187,7 +3187,7 @@
       "market": "CN",
       "source": "腾讯证券",
       "sourceUrl": "https://gu.qq.com/sh000905/zs",
-      "attemptedAt": "2026-10-19T01:08:50+08:00",
+      "attemptedAt": "2026-10-19T04:16:43+08:00",
       "status": "ok",
       "bars": [
         {
@@ -4241,7 +4241,7 @@
           "low": 6719.82
         }
       ],
-      "fetchedAt": "2026-10-19T01:08:50+08:00",
+      "fetchedAt": "2026-10-19T04:16:43+08:00",
       "asOf": "2026-10-16"
     }
   ]
