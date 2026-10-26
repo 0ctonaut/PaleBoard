@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T11:48:35+08:00",
+  "generatedAt": "2026-10-26T17:53:22+08:00",
   "indices": [
     {
       "id": "ndx",
@@ -9,7 +9,7 @@
       "market": "US",
       "source": "Yahoo Finance",
       "sourceUrl": "https://finance.yahoo.com/quote/%5ENDX/",
-      "attemptedAt": "2026-10-26T11:48:35+08:00",
+      "attemptedAt": "2026-10-26T17:53:22+08:00",
       "status": "ok",
       "bars": [
         {
@@ -1063,7 +1063,7 @@
           "close": 28957.529296875
         }
       ],
-      "fetchedAt": "2026-10-26T11:48:35+08:00",
+      "fetchedAt": "2026-10-26T17:53:22+08:00",
       "asOf": "2026-10-23"
     },
     {
@@ -1073,7 +1073,7 @@
       "market": "US",
       "source": "Yahoo Finance",
       "sourceUrl": "https://finance.yahoo.com/quote/%5EGSPC/",
-      "attemptedAt": "2026-10-26T11:48:35+08:00",
+      "attemptedAt": "2026-10-26T17:53:22+08:00",
       "status": "ok",
       "bars": [
         {
@@ -2127,7 +2127,7 @@
           "close": 7623.68017578125
         }
       ],
-      "fetchedAt": "2026-10-26T11:48:35+08:00",
+      "fetchedAt": "2026-10-26T17:53:22+08:00",
       "asOf": "2026-10-23"
     },
     {
@@ -2137,7 +2137,7 @@
       "market": "CN",
       "source": "腾讯证券",
       "sourceUrl": "https://gu.qq.com/sh000300/zs",
-      "attemptedAt": "2026-10-26T11:48:35+08:00",
+      "attemptedAt": "2026-10-26T17:53:22+08:00",
       "status": "ok",
       "bars": [
         {
@@ -3186,12 +3186,12 @@
         {
           "date": "2026-10-26",
           "open": 4078.57,
-          "close": 4083.14,
-          "high": 4086.22,
+          "close": 4103.54,
+          "high": 4107.79,
           "low": 4057.56
         }
       ],
-      "fetchedAt": "2026-10-26T11:48:35+08:00",
+      "fetchedAt": "2026-10-26T17:53:22+08:00",
       "asOf": "2026-10-26"
     },
     {
@@ -3201,7 +3201,7 @@
       "market": "CN",
       "source": "腾讯证券",
       "sourceUrl": "https://gu.qq.com/sh000905/zs",
-      "attemptedAt": "2026-10-26T11:48:35+08:00",
+      "attemptedAt": "2026-10-26T17:53:22+08:00",
       "status": "ok",
       "bars": [
         {
@@ -4250,12 +4250,12 @@
         {
           "date": "2026-10-26",
           "open": 6756.46,
-          "close": 6745.66,
-          "high": 6775.02,
+          "close": 6712.73,
+          "high": 6787.32,
           "low": 6674.4
         }
       ],
-      "fetchedAt": "2026-10-26T11:48:35+08:00",
+      "fetchedAt": "2026-10-26T17:53:22+08:00",
       "asOf": "2026-10-26"
     }
   ]
